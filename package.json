@@ -1,6 +1,6 @@
 {
   "name": "careers-website",
-  "description": Just a testing site
+  "description": "Just a testing site"
   "version": "1.0.0",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
